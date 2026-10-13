@@ -19,3 +19,4 @@ RUN set -x \
 
 # Initialize ngrok
 RUN  ngrok --version
+RUN ngrok config upgrad
